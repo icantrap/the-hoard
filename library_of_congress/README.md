@@ -9,3 +9,5 @@ It's a [scrapy](https://doc.scrapy.org/en/1.7/index.html) project.
 ```bash
 $ scrapy crawl roadside_attractions -o output.json
 ```
+
+**WARNING**. This script will take and estimated 7 days to run and consume 2 TB of disk space for images.
